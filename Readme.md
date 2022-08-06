@@ -1,7 +1,7 @@
 # Project 2 - Cool Restaurant
 This project is a part of Full stack Javascript Bootcamp. In this project i have created a beautiful web design for Restaurant which serves delicious foods.
 ## Project Link
-### [Cool Restaurant]()
+### [Cool Restaurant](https://restaurant-cool.netlify.app/)
 
 ## Snapshot
 
